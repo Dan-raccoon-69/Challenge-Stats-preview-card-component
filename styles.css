@@ -34,7 +34,6 @@ body{
 .card__container{
     width: 80%;
     margin: 2rem auto;
-    /* outline: 1px solid red; */
     border-radius: 1rem;
     background-color: var(--card_background);
 }
@@ -57,7 +56,6 @@ body{
 
 .card__picture{
     height: 200px;
-    /* outline: 1px solid green; */
 }
 
 /* CARD TEXT ************/
@@ -89,7 +87,6 @@ body{
 .card__data{
     display: flex;
     flex-direction: column;
-    /* outline: 1px solid red; */
     gap: 2rem;
     margin-top: 1rem;
 }
